@@ -1,0 +1,44 @@
+{
+    "keyboard_name": "gouda",
+    "manufacturer": "webby",
+    "url": "",
+    "maintainer": "webby",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x68FE",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_7x5": {
+            "layout": [
+                // Row 1
+                {"label":  "1",  "x": 2, "y": 0},
+                {"label":  "2",  "x": 3, "y": 0},
+                {"label":  "3",  "x": 4, "y": 0},
+                //Row 2
+                {"label":  "DEL",  "x": 2, "y": 1},
+                {"label":  "END",  "x": 3, "y": 1},
+                {"label":  "PGDN",  "x": 4, "y": 1},
+                //Row3
+                {"label":  "4",  "x": 1, "y": 1},
+                {"label":  "ENTER",  "x": 0, "y": 1},
+                {"label":  "NUM4",  "x": 2, "y": 0},
+                {"label":  "NUM5",  "x": 0, "y": 0},
+                //Row4
+                {"label":  "5",  "x": 2, "y": 1},
+                {"label":  "RSHIFT",  "x": 1, "y": 1},
+                {"label":  "UP",  "x": 0, "y": 1},
+                {"label":  "NUM1",  "x": 2, "y": 0},
+                {"label":  "NUM2",  "x": 0, "y": 0},
+                //Row5
+                {"label":  "6",  "x": 2, "y": 1},
+                {"label":  "RCTRL",  "x": 1, "y": 1},
+                {"label":  "LEFT",  "x": 0, "y": 1},
+                {"label":  "DOWN",  "x": 2, "y": 0},
+                {"label":  "RIGHT",  "x": 0, "y": 0},
+                {"label":  "NUM0",  "x": 2, "y": 1},
+                {"label":  "NUMDOT",  "x": 1, "y": 1}                
+           ]
+        }
+    }
+}
